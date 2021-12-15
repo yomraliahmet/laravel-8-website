@@ -1,0 +1,3 @@
+.sidebar .sub-menu > li .sub-menu > li > a:after{
+    content: none;
+}

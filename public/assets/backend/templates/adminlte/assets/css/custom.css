@@ -1,0 +1,7 @@
+table.dataTable td.dataTables_empty{text-align:center}
+.dataTables_processing{position:absolute; top:50%; left:50%; width:250px; min-height:30px; margin-left:-125px; margin-top:10px; padding:10px 0 10px 0; border:1px solid #ddd; text-align:center; color:#999; font-size:14px; background-color:white; z-index:100}
+
+.translation-page div.panel{margin:0px !important;}
+div.translation-page{margin-top: 15px; }
+div.translation-page nav > ul li:hover a{ color:lightgrey;}
+.translation-page nav.header{height:3rem !important;background: linear-gradient(90deg, #343a40, #555b65);}
